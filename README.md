@@ -1,4 +1,4 @@
-# CommunalEstablishmentResident in 2001
+# Communal Establishment Resident in 2001
 This STATA syntax selects staff in communal establishments and reclassifies them as residents if they are:
 - aged 0-15 years.
 - 75+ years.
